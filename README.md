@@ -61,3 +61,16 @@ FROM generate_series(1, 100);
 
 ## **📌 Step 5: Solve These 3 SQL Challenges**
 Write SQL queries in the **SQL Editor** to answer the following questions:
+
+### **1️⃣ Top 3 Best-Selling Products by Quantity Sold**
+
+
+### **2️⃣ Total Sales and Average Sale Amount Per Category**
+
+### **3️⃣ Find the Day with the Highest Sales Revenue**
+
+---
+
+## 🎯 **Challenge Complete!**
+Once you have your answers, take a screenshot and share it with the community. 🚀
+
