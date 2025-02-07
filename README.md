@@ -7,7 +7,7 @@ Welcome to the **PostgreSQL Mini Challenge**! In this challenge, you'll use **Ne
 ## **📌 Step 1: Sign Up for Neon**
 If you haven’t signed up yet, follow these steps:
 
-1. **Sign up for free** at 👉 [Neon Console](https://console.neon.tech/signup).
+1. **Sign up for free** at 👉 [Neon Console](https://devrelsquad.live/PlayWithNeon).
 2. Use your **Email, GitHub, Google**, or other partner accounts to sign up.
 3. For details about the free plan, check out **Neon Free Plan**.
 
