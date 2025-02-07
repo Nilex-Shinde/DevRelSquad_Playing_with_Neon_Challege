@@ -1,6 +1,3 @@
-# DevRelSquad: Playing_with_Neon_Challege
-This is a database challenge created for DevRelSquad: The GenAI Meetup Mumbai.
-
 # 🚀 PostgreSQL Mini Challenge with Neon
 
 Welcome to the **PostgreSQL Mini Challenge**! In this challenge, you'll use **Neon** to create a sample table, analyze the data, and write SQL queries to answer three analytical questions. Let's get started! 🎯
