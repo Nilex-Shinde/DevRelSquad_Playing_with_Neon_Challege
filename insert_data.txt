@@ -1,0 +1,14 @@
+Query for inserting Sample data in Sales table.
+
+INSERT INTO sales (product_name, category, quantity_sold, sale_amount, sale_date)
+SELECT 
+    'Product_' || (random() * 10)::INT + 1 AS product_name,
+    CASE (random() * 3)::INT 
+        WHEN 0 THEN 'Electronics' 
+        WHEN 1 THEN 'Clothing' 
+        ELSE 'Home Appliances' 
+    END AS category,
+    (random() * 20 + 1)::INT AS quantity_sold,
+    (random() * 500 + 50)::DECIMAL(10,2) AS sale_amount,
+    CURRENT_DATE - (random() * 30)::INT AS sale_date
+FROM generate_series(1, 100);
