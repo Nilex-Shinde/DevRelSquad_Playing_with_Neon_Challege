@@ -1,0 +1,10 @@
+Query for creating the Sales table in Neon.
+
+CREATE TABLE sales (
+    id SERIAL PRIMARY KEY,
+    product_name VARCHAR(50),
+    category VARCHAR(50),
+    quantity_sold INT,
+    sale_amount DECIMAL(10,2),
+    sale_date DATE
+);
