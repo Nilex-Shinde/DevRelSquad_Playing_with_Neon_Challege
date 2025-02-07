@@ -59,12 +59,20 @@ FROM generate_series(1, 100);
 ## **📌 Step 5: Solve These 3 SQL Challenges**
 Write SQL queries in the **SQL Editor** to answer the following questions:
 
-### **1️⃣ Top 3 Best-Selling Products by Quantity Sold**
+### **1️⃣ Inventory Manager's Dilemma
+The Inventory Manager at your company is trying to identify the most in-demand products to ensure stock availability. 
+However, the raw data is overwhelming. Your task is to help them determine the top 3 products that customers purchased the most (by quantity sold) so they can optimize inventory planning.**
 
 
-### **2️⃣ Total Sales and Average Sale Amount Per Category**
+### **Finance Team's Revenue Breakdown
+The Finance Team is preparing an internal report for stakeholders and needs a breakdown of sales across different product categories. They want to understand:
 
-### **3️⃣ Find the Day with the Highest Sales Revenue**
+Which categories generate the highest revenue?
+How much, on average, does a single sale contribute to revenue in each category?**
+
+### **CEO’s Big Question
+The CEO wants to know which day saw the highest revenue in the last 30 days, as they are considering running promotions around similar patterns. 
+Instead of scanning through daily reports manually, they need a precise answer from the data.**
 
 ---
 
